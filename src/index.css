@@ -1,0 +1,15 @@
+.app {
+  text-align: center;
+  width: 30rem;
+  height: auto;
+  padding: 2rem;
+  background-color: steelblue;
+  margin: auto;
+  color: white;
+}
+
+.btn {
+  background-color: aliceblue;
+  color: black;
+  padding: 10px;
+}
